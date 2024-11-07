@@ -35,7 +35,7 @@ At **Data Seekho**, founded by Muhammad Usama Hameed, our mission is to empower 
 - Learn data cleaning, handling missing values, and feature engineering for machine learning models.
 
 ### **Day 3**: Model Building & Evaluation  
-- Build a machine learning model using OpenWeather data, evaluate its performance, and present insights.
+- Build a machine learning model using UCI ♥️ Heart Disease Data, evaluate its performance, and present insights.
 
 ---
 
